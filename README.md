@@ -1,2 +1,0 @@
-# astroJobsRepo
-Created with CodeSandbox
